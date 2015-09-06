@@ -8,3 +8,5 @@ Key points to discuss:
 	-> Urgent Alerts
 	-> even more??? (all other Roles are contained within Administrator)
 - Process of logging in, security, users can only create an account with a specific token we generate and provide securely.
+
+- Static data dump needed from Administration at start of school year - staff directory, all extracurriculars, official stream of lunch menus, what links they would like to see, what polls they would like to ask.
