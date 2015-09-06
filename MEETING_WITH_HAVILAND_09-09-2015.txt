@@ -1,0 +1,10 @@
+Key points to discuss:
+
+- Roles that will exist across entire application - Administrator is most pertinent to him...
+- How SIMPLE we can make it for Administrators to post to app
+- They will be able to post the following:
+	-> Extracurricular Updates
+	-> Community Service Updates
+	-> Urgent Alerts
+	-> even more??? (all other Roles are contained within Administrator)
+- Process of logging in, security, users can only create an account with a specific token we generate and provide securely.
