@@ -1,0 +1,9 @@
+Current Roles dicussed:
+
+Developer
+Administrator
+Journalist
+Sponsor *
+Facilitator
+
+- Need to develop web application for client side posting by approved submitters only, never students!!!
